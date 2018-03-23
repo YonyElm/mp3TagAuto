@@ -1,0 +1,5 @@
+eyeD3==0.8.4
+pathlib==1.0.1
+py2exe==0.9.2.2
+python-magic==0.4.15
+six==1.11.0
